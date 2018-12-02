@@ -1,0 +1,2 @@
+# PythonianFLOORIT
+This program presents the user with a dilemma, where they have started to FLOOR IT from 0 out of a parking lot, 4 seconds go by without alert. Then you get an alert that there is an obstacle 40 feet ahead! You can only slow 8 ft per second, however. The program tells you the speed of you accelerating for the first four seconds and then your speed per second as you try to accelerate to zero before hitting the obstacle. The program then tells you if you hit the obstacle or not. 
